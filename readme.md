@@ -38,7 +38,7 @@ pip install binance-futures-connector
 ```
 
 3. **Update your API credentials**
-   In the script (`main.py` or equivalent), replace:
+   In the script (`main.py`), replace:
 
 ```python
 API_KEY = "your_api_key"
