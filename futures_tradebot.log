@@ -1,0 +1,4 @@
+2025-07-12 10:36:53,547 - INFO - Client initialized successfully.
+2025-07-12 10:36:54,231 - INFO - Fetched account info.
+2025-07-12 10:37:11,216 - INFO - Client initialized successfully.
+2025-07-12 10:37:22,305 - INFO - Order placed: {'orderId': 5263032531, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ItiK4hu5Pd8ancyb8Ts9ha', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752296842234}
