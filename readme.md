@@ -78,8 +78,3 @@ All API activity is logged to `futures_tradebot.log` for auditing and debugging.
 
 ---
 
-## 🙋‍♂️ Support
-
-For questions or issues, feel free to open an issue or contact via [GitHub Discussions](https://github.com/yourusername/binance-futures-bot/discussions).
-
-Happy Trading! 🚀
